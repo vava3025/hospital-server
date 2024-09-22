@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "name": "A J Hospital",
+    "patientCount": 26,
+    "location": "Trivandrum"
+  },
+  {
+    "id": 6,
+    "name": "SUT hospital",
+    "patientCount": 55,
+    "location": "Kochi"
+  },
+  {
+    "id": 8,
+    "name": "AIMS hospital",
+    "patientCount": 57,
+    "location": "Kollam"
+  },
+  {
+    "id": 9,
+    "name": " KIMS hospital",
+    "patientCount": 57,
+    "location": "Kollam"
+  }
+]
